@@ -1,5 +1,5 @@
-for x in range(1,8):
-    print("a" * 
+for x in range(4):
+    print("a" *5) 
     
     
     
